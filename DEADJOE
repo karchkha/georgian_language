@@ -59,3 +59,15 @@ Processing '/etc/joe/editorrc'...
 Processing '/etc/joe/ftyperc'...
 Finished processing /etc/joe/ftyperc
 Finished processing /etc/joe/editorrc
+
+*** These modified files were found in JOE when it aborted on Sun Oct  8 07:52:15 2023
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+/home/karchkhadze/georgian_language/.git/config
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
