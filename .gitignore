@@ -1,0 +1,5 @@
+raw_data/*
+models--facebook--wav2vec2-xls-r-1b
+logs
+wandb
+*.pyc
