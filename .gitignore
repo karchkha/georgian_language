@@ -1,3 +1,4 @@
 models--facebook--wav2vec2-xls-r-1b
 wandb
 *.pyc
+raw_data/*
